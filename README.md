@@ -20,3 +20,21 @@ Resources: I will release guides, datasets, and starter code here every Monday.
 Assignments: You will check this repo for your weekly tasks.
 
 Submission: You will not push code here. You must fork this repo or create your own public repository named Image_to_Insight_YourName and upload your work there.
+
+🛠️ Prerequisites & Setup
+
+You don't need a powerful laptop. We will use Google Colab for the heavy lifting. However, you should install the necessary libraries locally for the final weeks.
+
+Installation: pip install -r requirements.txt
+
+Required Libraries:
+• easyocr (Vision)
+• textblob (Language)
+• streamlit (Web App)
+• pillow (Image Processing)
+• opencv-python-headless (CV Utilities)
+
+🏁 Getting Started
+1. Star this repository to keep track of updates.
+2. Create your own repository.
+3. Go to the Week_1 folder (linked above) to begin your first assignment!
