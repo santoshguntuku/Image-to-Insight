@@ -1,4 +1,4 @@
-Image to Insight: The "Meme" Analyzer 🖼️ ➡️ 📊
+Image to Insight: The "Meme" Analyzer 🖼️ ➡️ 📊 
 Track: Natural Language Processing (NLP) & Computer Vision (CV)
 Duration: 5 Weeks
 Mentor:
