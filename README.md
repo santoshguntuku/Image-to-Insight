@@ -15,8 +15,8 @@ By the end of this project, you will have a fully functional web application tha
 
 This repository acts as the Central Hub.
 
-1. Resources: I will release guides, datasets, and starter code here every Monday.
-2. 
-3. Assignments: You will check this repo for your weekly tasks.
-4. 
-5. Submission: You will not push code here. You must fork this repo or create your own public repository named Image_to_Insight_YourName and upload your work there.
+Resources: I will release guides, datasets, and starter code here every Monday.
+
+Assignments: You will check this repo for your weekly tasks.
+
+Submission: You will not push code here. You must fork this repo or create your own public repository named Image_to_Insight_YourName and upload your work there.
