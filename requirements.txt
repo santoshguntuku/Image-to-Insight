@@ -1,0 +1,9 @@
+streamlit
+easyocr
+textblob
+pillow
+opencv-python-headless
+torch
+numpy
+pandas
+matplotlib
