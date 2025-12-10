@@ -1,6 +1,9 @@
-Image to Insight: The "Meme" Analyzer 🖼️ ➡️ 📊 
+Image to Insight: The "Meme" Analyzer 🖼️ ➡️ 📊
+
 Track: Natural Language Processing (NLP) & Computer Vision (CV)
+
 Duration: 5 Weeks
+
 Mentor:
 🚀 Project Overview
 Have you ever pondered the meaning behind all those memes, screenshots, and social media posts? "Image to Insight" is a hands-on journey into Multimodal AI. You will build a pipeline that allows your program to "see" an image and "read" the hidden sentiment behind it.
