@@ -30,7 +30,7 @@ Fri-Sun: Assignments.
 
 ✅ Assignments
 
-Assignment 2.1: The Text Miner
+1. Assignment 2.1: The Text Miner
 
 Create a notebook ocr_extraction.ipynb.
 
@@ -40,7 +40,7 @@ Loop through 3 different meme images.
 
 Print the extracted text for each image.
 
-Assignment 2.2: The Confidence Filter
+2. Assignment 2.2: The Confidence Filter
 
 Refine your code. The OCR might pick up random noise.
 
