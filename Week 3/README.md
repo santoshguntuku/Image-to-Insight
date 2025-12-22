@@ -1,7 +1,11 @@
 🗓️ Week 3: The Insight (NLP) & Mid-Sem Eval
+
 Focus: Sentiment Analysis & Pipeline Integration
+
 Goal: Understand the emotion behind the text.
+
 🧠 Theoretical Framework
+
 We use TextBlob for lexicon-based sentiment analysis. It assigns two metrics to every piece of text:
 1. Polarity: [-1.0 to +1.0]. Is the text Negative (e.g., "Sad", "Bad") or Positive ("Happy", "Great")?
 2. Subjectivity: [0.0 to 1.0]. Is it a Fact (0.0) or an Opinion (1.0)?
