@@ -15,13 +15,17 @@ The Sarcasm Gap: You will likely notice that some memes have positive text ("Gre
 📚 Learning Resources
 
 • Core Tutorial:(https://textblob.readthedocs.io/en/dev/quickstart.html)
+
 • Concept:(https://www.geeksforgeeks.org/python-textblob-sentiment-method/)
+
 • Video Guide:(https://www.youtube.com/watch?v=pkdmcsyYvb4)
 
 🧪 Weekly Schedule
 
 • Mon-Tue: Learn Polarity vs. Subjectivity.
+
 • Wed: Learn to clean text (removing newlines, fixing spelling).
+
 • Thu-Sun: Mid-Semester Project.
 
 🚨 Mid-Semester Evaluation (Due Sunday)
