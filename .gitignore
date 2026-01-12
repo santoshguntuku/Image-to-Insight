@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+test_memes/*.jpg
+test_memes/*.png
+test_memes/*.jpeg
+*.log
+*.tmp
+
+# Keep test_memes folder but ignore images
+!test_memes/.gitkeep
